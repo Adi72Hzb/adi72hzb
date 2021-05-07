@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/adi72hzb/static/css/main.a7d62718.chunk.css",
+    "main.js": "/adi72hzb/static/js/main.0abdba27.chunk.js",
+    "main.js.map": "/adi72hzb/static/js/main.0abdba27.chunk.js.map",
+    "runtime-main.js": "/adi72hzb/static/js/runtime-main.845cbd23.js",
+    "runtime-main.js.map": "/adi72hzb/static/js/runtime-main.845cbd23.js.map",
+    "static/js/2.a716979e.chunk.js": "/adi72hzb/static/js/2.a716979e.chunk.js",
+    "static/js/2.a716979e.chunk.js.map": "/adi72hzb/static/js/2.a716979e.chunk.js.map",
+    "index.html": "/adi72hzb/index.html",
+    "static/css/main.a7d62718.chunk.css.map": "/adi72hzb/static/css/main.a7d62718.chunk.css.map",
+    "static/js/2.a716979e.chunk.js.LICENSE.txt": "/adi72hzb/static/js/2.a716979e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/adi72hzb/static/media/pics5.946d97b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.845cbd23.js",
+    "static/js/2.a716979e.chunk.js",
+    "static/css/main.a7d62718.chunk.css",
+    "static/js/main.0abdba27.chunk.js"
+  ]
+}
